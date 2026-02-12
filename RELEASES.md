@@ -1,5 +1,9 @@
 # addnab/docker-run-action Releases
 
+### 3.1.0
+
+- Upgrade to docker 29.2.1
+
 ### 3.0.0
 
 - Upgrade to docker 20.10 https://github.com/addnab/docker-run-action/pull/12
